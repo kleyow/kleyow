@@ -34,7 +34,7 @@
 
 **Architecture & Data:**  
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
@@ -43,8 +43,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kleyow&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Kevin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleyow&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=kleyow&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Kevin's GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kleyow&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <p align="center">
