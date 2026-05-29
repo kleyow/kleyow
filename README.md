@@ -59,22 +59,20 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kleyow&style=flat-square&color=blueviolet" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=kleyow&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Kevin's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kleyow&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kleyow&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kleyow&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</p>
 
 <p align="center">
-  <i>"Optimizing performance one microservice at a time."</i>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kleyow&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleyow&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kleyow&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kleyow&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
