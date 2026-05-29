@@ -50,6 +50,3 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kleyow&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
-<p align="center">
-  <i>"Optimizing performance one microservice at a time."</i>
-</p>
