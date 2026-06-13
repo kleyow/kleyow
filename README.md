@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Kevin Leyow 👋</h1>
-<h3 align="center">Senior Full-Stack Software Engineer | Distributed Systems Architect</h3>
+<h3 align="center">Senior Full-Stack Software Engineer</h3>
 
 <p align="center">
   I'm a software engineer with over a decade of experience architecting high-concurrency, distributed FinTech infrastructure and deploying scalable, cloud-native applications. I specialize in turning complex cloud orchestration challenges into high-velocity engineering solutions.
